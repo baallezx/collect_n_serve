@@ -1,0 +1,3 @@
+from nltk import word_tokenize, WordNetLemmatizer, NaiveBayesClassifier, classify, MaxentClassifier
+from nltk.corpus import stopwords # the, as, ...
+
